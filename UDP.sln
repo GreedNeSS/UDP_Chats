@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleChat", "ConsoleChat\ConsoleChat.csproj", "{DE3FD3CF-4BA5-4688-BF4D-D261D7CF2A3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiBroadcast", "MultiBroadcast\MultiBroadcast.csproj", "{3EED8E1F-8587-4E03-85E6-DB7FBEA6B99F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiBroadcast", "MultiBroadcast\MultiBroadcast.csproj", "{3EED8E1F-8587-4E03-85E6-DB7FBEA6B99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsChat", "WinFormsChat\WinFormsChat.csproj", "{20DD75CA-C8E8-498C-8749-D1A8E2F47967}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{3EED8E1F-8587-4E03-85E6-DB7FBEA6B99F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EED8E1F-8587-4E03-85E6-DB7FBEA6B99F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EED8E1F-8587-4E03-85E6-DB7FBEA6B99F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DD75CA-C8E8-498C-8749-D1A8E2F47967}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DD75CA-C8E8-498C-8749-D1A8E2F47967}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DD75CA-C8E8-498C-8749-D1A8E2F47967}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DD75CA-C8E8-498C-8749-D1A8E2F47967}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
