@@ -133,7 +133,10 @@ namespace WinFormsChat
 
         private void Form1_FormClosing(object sender, FormClosedEventArgs e)
         {
-
+            if (alive)
+            {
+                ExitChat();
+            }
         }
     }
 }

@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiBroadcast", "MultiBroa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsChat", "WinFormsChat\WinFormsChat.csproj", "{20DD75CA-C8E8-498C-8749-D1A8E2F47967}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{56561644-CC62-4E80-A05E-F551B0E3CA1A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{20DD75CA-C8E8-498C-8749-D1A8E2F47967}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20DD75CA-C8E8-498C-8749-D1A8E2F47967}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20DD75CA-C8E8-498C-8749-D1A8E2F47967}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56561644-CC62-4E80-A05E-F551B0E3CA1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56561644-CC62-4E80-A05E-F551B0E3CA1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56561644-CC62-4E80-A05E-F551B0E3CA1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56561644-CC62-4E80-A05E-F551B0E3CA1A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
